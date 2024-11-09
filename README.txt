@@ -95,16 +95,3 @@ am creeat o copie pentru a retine ultimele 8 echipe
 void eliberare_castigatori(lista_echipe* head);
 pentru eliberarea memoriei ocupata de castigatori
 
-
-
-
-Consider ca tema este utila deoarece te ajuta sa inveti mai multe informatii utile, te lovesti de anumite chestii noi pe care trebuie sa le intelegi/rezolvi. Tema aceasta te ajuta sa te pregatesti mai bine pentru sesiune si sa nu lasi aceasta pregatire pentru ultimele ore inaintea examenului. 
-
- ----------------
-|  Implementare  |
- ----------------
-* pentru aceasta tema am reusit sa fac primele 3 exercitii
-* am implementat o functie isEmpty pentru a verifica daca, coada este goala, dar s a dovedit inutila in varianta finala a temei
-* pentru primele 3 exercitii nu exista functionalitati lipsa
-* am avut dificultati la eliberarea stivei, la afisarea rundelor, si a meciurilor deoarece nu erau vazute bine de checker 
-* un lucru interesant a fost sa invat cum sa folosesc un checker 

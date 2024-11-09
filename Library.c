@@ -1,4 +1,4 @@
-#include "biblioteca.h"
+#include "Library.h"
 
 Echipa* creareNod(char numeEchipa[50], float puncte_nod, lista_jucatori **head)
 {

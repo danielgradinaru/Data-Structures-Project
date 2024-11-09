@@ -1,0 +1,4 @@
+build: 
+	gcc tema.c biblioteca.c -o lanParty
+clean:
+	rm -f lanParty
